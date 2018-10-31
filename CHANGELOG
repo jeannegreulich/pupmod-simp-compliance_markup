@@ -1,3 +1,7 @@
+* Wed Oct 31 2018 Jeanne Greulich <jeanne.greulich@onyxpoint.com> - 2.4.1-0
+- update staic asses to makke sure puppet 5 acceptence tests
+  are running.
+
 * Fri Oct 19 2018 Liz Nemsick <lnemsick.simp@gmail.com> - 2.4.1-0
 - Fixed the following incorrect parameter types
   - simp::yum::schedule::minute
